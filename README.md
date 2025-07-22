@@ -51,8 +51,8 @@ Sou responsável pela **definição de padrões técnicos, liderança do time de
 
 ## 📊 GitHub Stats
 
-![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=seu-usuario&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuario&layout=compact&theme=radical)
+![Lucas's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasrodrigues19&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasrodrigues19&layout=compact&theme=radical)
 
 ---
 
