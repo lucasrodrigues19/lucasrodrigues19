@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Lucas P. Rodrigues
 
-![GitHub followers](https://img.shields.io/github/followers/seu-usuario?style=social)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0A66C2?logo=linkedin&style=flat-square&logoColor=white)
+![GitHub followers](https://img.shields.io/github/followers/lucasrodrigues?style=social)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lucas%20Rodrigues-0A66C2?logo=linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/lucas-rodrigues-521060191)
 
 ---
 
