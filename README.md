@@ -27,7 +27,7 @@ Atuo tanto no **backend robusto** quanto no **frontend moderno**, sempre com foc
 
 ## 🚀 O que estou fazendo atualmente
 
-Atuo como **Líder Técnico e Arquiteto de Soluções** no projeto **V5**, uma plataforma de **workflow de atendimento e gestão de pátio**, desenvolvida com foco em:
+Atuo como **Líder Técnico e Arquiteto de Soluções** no projeto **FilaH/Greentruck V5**, uma plataforma de **workflow de atendimento e gestão de pátio**, desenvolvida com foco em:
 
 - **Alta disponibilidade e escalabilidade**
 - **Arquitetura distribuída com Spring Cloud, Hazelcast e microsserviços**
